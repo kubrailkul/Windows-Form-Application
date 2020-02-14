@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vektorel.Windows.Oyun", "Vektorel.Windows.Oyun\Vektorel.Windows.Oyun.csproj", "{358CF617-AA82-4839-A496-995AD14D2352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{358CF617-AA82-4839-A496-995AD14D2352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358CF617-AA82-4839-A496-995AD14D2352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358CF617-AA82-4839-A496-995AD14D2352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358CF617-AA82-4839-A496-995AD14D2352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15ACE487-6F5F-45D6-9A32-3589570CF478}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\bin\Debug\Vektorel.Windows.Oyun.exe.config
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\bin\Debug\Vektorel.Windows.Oyun.exe
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\bin\Debug\Vektorel.Windows.Oyun.pdb
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.csprojAssemblyReference.cache
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.frmOyun.resources
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.frmGiris.resources
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.Properties.Resources.resources
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.csproj.GenerateResource.cache
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.exe
+C:\Users\KÜBRA\Desktop\Windows-Form-Application-Button-Game-master\Vektorel.Windows.Oyun\obj\Debug\Vektorel.Windows.Oyun.pdb
